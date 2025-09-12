@@ -10,7 +10,7 @@ Onyx is a premium software platform delivering safe, undetectable game modificat
 - **Store Website**  
   Dedicated storefront with exclusive offers and streamlined checkout.
 
-- **Loader**  
+- **Launcher**  
   Lightweight native desktop application for fast, reliable product launching.
 
 - **HWID Checker**  
