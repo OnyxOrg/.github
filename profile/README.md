@@ -1,4 +1,4 @@
-<img src="http://nas.lorenzomatrullo.dev/discord/onyx-banner.png" title="Onyx Banner">
+<img src="http://vps.lorenzomatrullo.dev/view/github-profile/onyx-banner.png" title="Onyx Banner">
 
 Onyx is a premium software platform delivering safe, undetectable game modifications and a unified user experience across web, desktop, and Discord. Elevate your gaming experience with trust, performance, and style.  
 
